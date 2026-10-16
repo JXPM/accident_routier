@@ -20,7 +20,7 @@ git push --set-upstream origin main
 #fichier Maj et push
 git status
 git add .
-git commit -m "dataset"
+git commit -m "notebook updated"
 git push origin main
 
 
